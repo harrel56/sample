@@ -4,4 +4,4 @@ For each project the whole source-project folder and folder with compiled binari
 
 2.MoveFile - moving file from one location to another. It has been designed for command line execution. This program takes 2 arguments - a source file and a directory. It returns 0 on success and 1 otherwise. No files will be overwiritten without user permission.
 
-3.MyPlanner - GUI application develepod in QT framework. It uses SQLite database. The compiled program has a lot of dependencies (dynamic linking) and I tried to provide all of the .dll files but it can turn out that something is still missing.
+3.MyPlanner - GUI application developed in QT framework. It uses SQLite database. The compiled program has a lot of dependencies (dynamic linking) and I tried to provide all of the .dll files but it can turn out that something is still missing.
