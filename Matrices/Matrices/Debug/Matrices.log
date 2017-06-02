@@ -1,6 +1,0 @@
-﻿  main.cpp
-c:\users\harrel\desktop\cpp\matrices\matrices\matrix.h(332): warning C4018: '<': signed/unsigned mismatch
-  c:\users\harrel\desktop\cpp\matrices\matrices\main.cpp(53): note: see reference to function template instantiation 'std::ostream &operator <<<int>(std::ostream &,const Matrix<int> &)' being compiled
-c:\users\harrel\desktop\cpp\matrices\matrices\matrix.h(334): warning C4018: '<': signed/unsigned mismatch
-  Matrices.vcxproj -> C:\Users\Harrel\Desktop\cpp\Matrices\Debug\Matrices.exe
-  Matrices.vcxproj -> C:\Users\Harrel\Desktop\cpp\Matrices\Debug\Matrices.pdb (Full PDB)
